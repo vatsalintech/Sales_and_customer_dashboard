@@ -1,0 +1,12 @@
+# macOS
+.DS_Store
+**/.DS_Store
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Tableau backups / temp
+*.twb.bak
+*.twbx.bak
+~$*
